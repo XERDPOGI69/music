@@ -4,7 +4,7 @@ const REDIRECT_URI = 'https://xerdpogi69.github.io/music/';
 const TOKEN_KEY = 'spotify-token';
 
 // Spotify API endpoints
-const AUTH_URL = `https://accounts.spotify.com/authorize?client_id=${CLIENT_ID}&response_type=token&redirect_uri=https://example.com/callback&scope=user-read-private%20user-read-email%20user-read-playback-state%20user-modify-playback-state%20playlist-read-private`;
+const AUTH_URL = `https://accounts.spotify.com/authorize?client_id=${CLIENT_ID}&response_type=token&redirect_uri=https://xerdpogi69.github.io/music/&scope=user-read-private%20user-read-email%20user-read-playback-state%20user-modify-playback-state%20playlist-read-private`;
 
 const API_BASE = 'https://api.spotify.com/v1';
 
