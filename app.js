@@ -1,6 +1,6 @@
 // Your Spotify API credentials (replace with your own)
-const CLIENT_ID = 'your_client_id';
-const REDIRECT_URI = 'your_redirect_uri';
+const CLIENT_ID = '1e0c3b7d183b4c2bb48156409e527c3f';
+const REDIRECT_URI = 'https://xerdpogi69.github.io/music/';
 const TOKEN_KEY = 'spotify-token';
 
 // Spotify API endpoints
